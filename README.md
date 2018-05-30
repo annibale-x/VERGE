@@ -12,7 +12,7 @@
 
 ```
 
-# VERGE [XVG] Source Code
+# BetChain [RBT] Source Code
 
 ## Specifications
 
